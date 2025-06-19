@@ -1,1 +1,1 @@
-# Pipelined RV32IMC RISC-V CPU 
+# RV32IMC RISC-V CPU 
