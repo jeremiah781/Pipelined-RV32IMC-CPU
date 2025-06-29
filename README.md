@@ -30,7 +30,7 @@
 I built this RISC-V CPU from scratch as part of CMPEN 331: Computer Architecture & System Design.  
 What started as a class project turned into real hardware. I got it running on the DE1-SoC board, fully functional and pipelined.
 
-**Philosophy:** *Clean RTL + Systematic Optimization + Data-Driven Decisions = Exceptional Results*
+**Philosophy:** *Clean RTL + Systematic Optimization + Data-Driven Decisions = Exceptional Results* 
 
 ---
 
@@ -57,7 +57,7 @@ What started as a class project turned into real hardware. I got it running on t
 ## Key Performance Metrics <sub>(DE1-SoC • Cyclone V)</sub>
 
 <div align="center">
-
+ 
 | Metric | Baseline PicoRV32 | Optimized Core | Improvement | Classification |
 |---|:---:|:---:|:---:|:---:|
 | **Max clock** | 75 MHz | **100.15 MHz** | **+34%** | Frequency |
