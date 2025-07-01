@@ -81,7 +81,7 @@ This work underpins my hardware-design research and has been **demoed live at Pe
 I'm planning on exploring **AXI-Lite bridges** and **Core-ML co-processors** for AI workloads.
 
 **Key Validation Metrics:**
-- 100% toggle coverage achieved
+- 93% toggle coverage achieved
 - SystemVerilog Assertions verified
 - Production-ready timing closure
 - Live hardware demonstration completed
