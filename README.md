@@ -117,6 +117,6 @@ quartus_pgm -m jtag -o "p;output_files/rv32imc_top.sof"
 
 ---
 
-<sub>Built with precision engineering • Validated with industry tools • Ready for production</sub>
+<sub>Built with precision engineering • Validated with industry tools • Ready for use</sub>
 
 </div>
